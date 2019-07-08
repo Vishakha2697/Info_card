@@ -21,7 +21,7 @@ flutter:
   uses-material-design: true
 
   assets:
-    - images/smiley.jpg
+    - images/smiley.png
 
   fonts:
     - family: Pacifico

@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget{
             children: <Widget>[
               CircleAvatar(
                 radius: 50.0,
-                backgroundImage: AssetImage('images/smiley.jpg'),
+                backgroundImage: AssetImage('images/smiley.png'),
               ),
               Text('Miss Smiley',
               style: TextStyle(
